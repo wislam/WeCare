@@ -1,7 +1,7 @@
 # WeCare
 WeCare about your Healthcare
 
-## Team
+## Meet the WeCare Team!
 * Waqarul Islam (`wislam@`)
 * Pritika Mehra (`pritikam@`)
 * Manisha Sivaiah (`mtumkur@`)
@@ -9,8 +9,8 @@ WeCare about your Healthcare
 ## What is WeCare?
 ...
 
-## Project Guide
-- [x] [Project Proposal](deliverables/ProjectProposal.pdf)
-- [x] [User Research and Design](deliverables/UserResearch_Design.pdf)
-- [x] [Prototyping](deliverables/Prototyping.pdf)
-- [x] [Final Prototype](deliverables/FinalPrototype.pdf)
+## Project Guide:
+- [Project Proposal](deliverables/ProjectProposal.pdf)
+- [User Research and Design](deliverables/UserResearch_Design.pdf)
+- [Prototyping](deliverables/Prototyping.pdf)
+- [Final Prototype](deliverables/FinalPrototype.pdf)
