@@ -1,12 +1,16 @@
 # WeCare
 WeCare about your Healthcare
 
-Team Members: Waqarul Islam, Pritika Mehra, Manisha Sivaiah
+## Team
+* Waqarul Islam (`wislam@`)
+* Pritika Mehra (`pritikam@`)
+* Manisha Sivaiah (`mtumkur@`)
 
-Project Proposal
+## What is WeCare?
+...
 
-User Research and Design
-
-Prototyping
-
-Final Prototype
+## Product Guide
+- [x] Project Proposal
+- [x] User Research and Design
+- [x] Prototyping
+- [x] Final Prototype
