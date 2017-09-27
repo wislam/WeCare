@@ -1,5 +1,9 @@
 # WeCare
-We are WeCare
+WeCare about your Healthcare
 
 Team Members: Waqarul Islam, Pritika Mehra, Manisha Sivaiah
-Project
+
+Project Proposal
+User Research and Design
+Prototyping
+Final Prototype
