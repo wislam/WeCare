@@ -9,8 +9,8 @@ WeCare about your Healthcare
 ## What is WeCare?
 ...
 
-## Product Guide
-- [x] Project Proposal
-- [x] User Research and Design
-- [x] Prototyping
-- [x] Final Prototype
+## Project Guide
+- [x] [Project Proposal](deliverables/ProjectProposal.pdf)
+- [x] [User Research and Design](deliverables/UserResearch_Design.pdf)
+- [x] [Prototyping](deliverables/Prototyping.pdf)
+- [x] [Final Prototype](deliverables/FinalPrototype.pdf)
