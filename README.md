@@ -10,7 +10,7 @@ WeCare about your Healthcare
 ...
 
 ## Project Guide:
-- [GP 1] [Project Proposal](deliverables/ProjectProposal.pdf)
-- [GP 2] [User Research and Design](deliverables/UserResearch_Design.pdf)
-- [GP 3] [Prototyping](deliverables/Prototyping.pdf)
-- [GP 4] [Final Prototype](deliverables/FinalPrototype.pdf)
+- [Project Proposal](deliverables/ProjectProposal.pdf)
+- [User Research and Design](deliverables/UserResearch_Design.pdf)
+- [Prototyping](deliverables/Prototyping.pdf)
+- [Final Prototype](deliverables/FinalPrototype.pdf)
