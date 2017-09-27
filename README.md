@@ -10,7 +10,7 @@ WeCare about your Healthcare
 ...
 
 ## Product Guide
-- [x] Project Proposal
-- [x] User Research and Design
-- [x] Prototyping
-- [x] Final Prototype
+- [x] Project Proposal [here](deliverables/ProjectProposal.pdf)
+- [x] User Research and Design [here](deliverables/UserResearch_Design.pdf)
+- [x] Prototyping [here](deliverables/Prototyping.pdf)
+- [x] Final Prototype [here](deliverables/FinalPrototype.pdf)
